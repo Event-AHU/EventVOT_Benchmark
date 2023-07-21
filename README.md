@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Event-AHU/EventVOT_Benchmark/blob/main/figures/EventVOT.png" width="600">
+<img src="https://github.com/Event-AHU/EventVOT_Benchmark/blob/main/figures/EventVOT_white.png" width="600">
   
 **The First High Definition (HD) Event based Visual Object Tracking Benchmark Dataset** 
 
