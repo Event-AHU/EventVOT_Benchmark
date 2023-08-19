@@ -21,9 +21,16 @@
 
 
 # EventVOT Dataset 
-* **train.zip** 28.16GB, **val.zip** 703M, **test.zip** 9.94GB 
-* **Baidu Netdisk**: link：https://pan.baidu.com/s/1NLSnczJ8gnHqF-69bE7Ldg?pwd=wsad code：wsad
-* **Dropbox**: 
+
+
+* **Image version** (train.zip 28.16GB, val.zip 703M, test.zip 9.94GB)
+** **Baidu Netdisk**: link：https://pan.baidu.com/s/1NLSnczJ8gnHqF-69bE7Ldg?pwd=wsad code：wsad
+** **Dropbox**:
+
+
+* **Complete version** (Image + Raw data, train.zip 180.7GB, val.zip 4.34GB, test.zip 64.88GB)
+** **Baidu Netdisk**: link：https://pan.baidu.com/s/1ZTX7O5gWlAdpKmd4R9VhYA?pwd=wsad code：wsad
+** **Dropbox**: 
 
 
 
