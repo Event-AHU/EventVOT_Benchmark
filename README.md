@@ -140,10 +140,11 @@ The directory should have the below format:
 3. run `Evaluate_EventVOT_benchmark_SP_PR_only.m` for the overall performance evaluation, including SR, PR, NPR.
 4. run `plot_BOC.m` for BOC score evaluation and figure plot.
 5. run `plot_radar.m` for attributes radar figrue plot.
-6. run `Evaluate_EventVOT_benchmark_attributes.m` for attributes analysis and figure saved in `$/res_fig/`.
 <p align="center">
   <img width="45%" src="./figures/attributes.png" alt="Radar"/><img width="55%" src="./figures/BOC.png" alt="Radar"/>
 </p>
+7. run `Evaluate_EventVOT_benchmark_attributes.m` for attributes analysis and figure saved in `$/res_fig/`.
+
 
 # :chart_with_upwards_trend: Benchmark Results
 <p align="left">
