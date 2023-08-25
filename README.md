@@ -147,7 +147,7 @@ The directory should have the below format:
 <p align="center">
   <img width="45%" src="./figures/attributes.png" alt="Radar"/><img width="55%" src="./figures/BOC.png" alt="Radar"/>
 </p>
-7. run `Evaluate_EventVOT_benchmark_attributes.m` for attributes analysis and figure saved in `$/res_fig/`.
+7.  run `Evaluate_EventVOT_benchmark_attributes.m` for attributes analysis and figure saved in `$/res_fig/`. 
 
 
 # :chart_with_upwards_trend: Benchmark Results
