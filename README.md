@@ -34,7 +34,7 @@ A demo video can be found by clicking the image below:
 </p> 
 
 
-# :hammer: Environment 
+
 <div align="center">
   
 **Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline**
@@ -45,7 +45,7 @@ A demo video can be found by clicking the image below:
   <img width="85%" src="./figures/HDETrack.jpg" alt="Framework"/>
 </p>
 
-
+# :hammer: Environment 
 Install env
 ```
 conda create -n hdetrack python=3.8
