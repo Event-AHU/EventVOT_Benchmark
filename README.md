@@ -120,7 +120,7 @@ python tracking/profile_model.py --script hdetrack --config hdetrack_eventvot
 
 # :chart_with_upwards_trend: Benchmark Results
 <p align="left">
-  <img width="100%" src="./figures/PRSPNPR.jpg" alt="SR_PR_NPR"/>
+  <img width="100%" src="./figures/PRSPNPR.jpg" alt="PRSRNPR"/>
 </p>
 
 
