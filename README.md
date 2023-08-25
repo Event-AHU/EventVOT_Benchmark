@@ -67,10 +67,10 @@ Download the model weights and put it on `$/output/checkpoints/train/hdetrack`
 python tracking/train.py --script hdetrack --config hdetrack_eventvot --save_dir ./output --mode single --nproc_per_node 1 --use_wandb 0
 
 # test
-python tracking/test.py  hdetrack hdetrack_eventvot --dataset eventvot --threads 1 --num_gpus 1
+python tracking/test.py hdetrack hdetrack_eventvot --dataset eventvot --threads 1 --num_gpus 1
 
 # eval
-python tracking/analysis_results.py --dataset eventvot  --parameter_name hdetrack_eventvot
+python tracking/analysis_results.py --dataset eventvot --parameter_name hdetrack_eventvot
 ```
 
 
