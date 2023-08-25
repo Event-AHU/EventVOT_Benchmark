@@ -38,7 +38,7 @@ A demo video can be found by clicking the image below:
 
 Install env
 ```
-conda create -n hdetrack python=3.7
+conda create -n hdetrack python=3.8
 conda activate hdetrack
 bash install.sh
 ```
@@ -102,7 +102,13 @@ python tracking/profile_model.py --script hdetrack --config hdetrack_eventvot
 
 
 
-# :triangular_ruler: Evaluation Toolkit 
+# :triangular_ruler: Evaluation Toolkit
+1. unzip the EventVOT_eval_toolkit.zip, and open it with Matlab (over Matlab R2020).
+2. add your tracking results and [baseline results (Passcode：siaw)](https://pan.baidu.com/s/1YN07LHERxO31zflMUzgK4A)  in `$/eventvot_tracking_results/` and modify the name in `$/utils/config_tracker.m`
+3. run `Evaluate_EventVOT_benchmark_SP_PR_only.m` for the overall performance evaluation, including SR, PR, NPR.
+4. run `plot_BOC.m` for BOC score evaluation and figure plot.
+5. run `plot_radar.m` for attributes radar figrue plot.
+6. run `Evaluate_EventVOT_benchmark_attributes.m` for attributes analysis and figure saved in `$/res_fig/`. 
 
 
 # :chart_with_upwards_trend: Benchmark Results
