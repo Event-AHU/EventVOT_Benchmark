@@ -42,8 +42,6 @@ A demo video can be found by clicking the image below:
 
 **Event Stream-based Visual Object Tracking.**
 
-------
-
 <p align="center">
   <img width="85%" src="./figures/HDETrack.jpg" alt="Framework"/>
 </p>
