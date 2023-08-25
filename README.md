@@ -35,8 +35,7 @@ A demo video can be found by clicking the image below:
 
 
 
-<div align="center">
-  
+
 **Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline**
 
 ------
