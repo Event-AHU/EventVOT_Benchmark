@@ -40,7 +40,7 @@ A demo video can be found by clicking the image below:
 
 # :hammer: Environment 
 
-**Event Stream-based Visual Object Tracking.**
+**A distillation framework for Event Stream-based Visual Object Tracking.**
 
 <p align="center">
   <img width="85%" src="./figures/HDETrack.jpg" alt="Framework"/>
