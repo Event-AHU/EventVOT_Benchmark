@@ -106,6 +106,31 @@ python tracking/profile_model.py --script hdetrack --config hdetrack_eventvot
   
 :floppy_disk: **Dropbox**: https://www.dropbox.com/scl/fo/fv2e3i0ytrjt14ylz81dx/h?rlkey=6c2wk2z7phmbiwqpfhhe29i5p&dl=0
 
+The directory should have the below format:
+```Shell
+├── EventVOT dataset
+    ├── Training Subset (841 videos, 180.7GB)
+        ├── recording_2022-10-10_17-28-38
+            ├── img
+            ├── recording_2022-10-10_17-28-38.csv
+            ├── groundtruth.txt
+            ├── absent.txt
+        ├── ... 
+    ├── Testing Subset (282 videos, 64.88GB)
+        ├── recording_2022-10-10_17-28-24
+            ├── img
+            ├── recording_2022-10-10_17-28-24.csv
+            ├── groundtruth.txt
+            ├── absent.txt
+        ├── ...
+    ├── validating Subset (18 videos, 4.34GB)
+        ├── recording_2022-10-10_17-31-07
+            ├── img
+            ├── recording_2022-10-10_17-31-07.csv
+            ├── groundtruth.txt
+            ├── absent.txt
+        ├── ... 
+```
 
 
 # :triangular_ruler: Evaluation Toolkit
