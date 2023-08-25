@@ -36,6 +36,55 @@ A demo video can be found by clicking the image below:
 
 # :hammer: Environment 
 
+Install env
+```
+conda create -n hdetrack python=3.7
+conda activate hdetrack
+bash install.sh
+```
+
+Run the following command to set paths for this project
+```
+python tracking/create_default_local_file.py --workspace_dir . --data_dir ./data --save_dir ./output
+```
+
+After running this command, you can also modify paths by editing these two files
+```
+lib/train/admin/local.py  # paths about training
+lib/test/evaluation/local.py  # paths about testing
+```
+
+Then, put the tracking datasets EventVOT in `./data`. 
+
+Download pre-trained [MAE ViT-Base weights](https://dl.fbaipublicfiles.com/mae/pretrain/mae_pretrain_vit_base.pth) and put it under `$/pretrained_models`
+
+Download the model weights and put it on `$/output/checkpoints/train/hdetrack`
+
+
+## Train & Test & Evaluation
+```
+    # train
+    export CUDA_VISIBLE_DEVICES=0
+    python tracking/train.py --script hdetrack --config hdetrack_eventvot --save_dir ./output --mode single --nproc_per_node 1 --use_wandb 0
+
+    # test
+    python tracking/test.py  hdetrack hdetrack_eventvot --dataset eventvot --threads 1 --num_gpus 1
+
+    # eval
+    python tracking/analysis_results.py --dataset eventvot  --parameter_name hdetrack_eventvot
+```
+
+
+
+
+### Test FLOPs, and Speed
+*Note:* The speeds reported in our paper were tested on a single RTX 3090 GPU.
+
+```
+# Profiling ceutrack_coesot
+python tracking/profile_model.py --script hdetrack --config hdetrack_eventvot
+```
+
 
 
 # :dvd: EventVOT Dataset 
