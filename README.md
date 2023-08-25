@@ -36,6 +36,12 @@ A demo video can be found by clicking the image below:
 
 # :hammer: Environment 
 
+**Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline**
+<p align="center">
+  <img width="85%" src="./figures/HDETrack.jpg" alt="Framework"/>
+</p>
+
+
 Install env
 ```
 conda create -n hdetrack python=3.8
@@ -103,6 +109,7 @@ python tracking/profile_model.py --script hdetrack --config hdetrack_eventvot
 
 
 # :triangular_ruler: Evaluation Toolkit
+
 1. unzip the EventVOT_eval_toolkit.zip, and open it with Matlab (over Matlab R2020).
 2. add your tracking results and [baseline results (Passcode：wsad)](https://pan.baidu.com/s/1cvWg7cw1_kLjBMP7y7bEbg)  in `$/eventvot_tracking_results/` and modify the name in `$/utils/config_tracker.m`
 3. run `Evaluate_EventVOT_benchmark_SP_PR_only.m` for the overall performance evaluation, including SR, PR, NPR.
