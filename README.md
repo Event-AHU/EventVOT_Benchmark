@@ -37,12 +37,11 @@ A demo video can be found by clicking the image below:
 
 * **Event Image version** (train.zip 28.16GB, val.zip 703M, test.zip 9.94GB)
 ** **Baidu Netdisk**: link：https://pan.baidu.com/s/1NLSnczJ8gnHqF-69bE7Ldg?pwd=wsad code：wsad
-** **Dropbox**:
 
 
 * **Complete version** (Event Image + Raw Event data, train.zip 180.7GB, val.zip 4.34GB, test.zip 64.88GB)
 ** **Baidu Netdisk**: link：https://pan.baidu.com/s/1ZTX7O5gWlAdpKmd4R9VhYA?pwd=wsad code：wsad
-** **Dropbox**: 
+** **Dropbox**: https://www.dropbox.com/scl/fo/fv2e3i0ytrjt14ylz81dx/h?rlkey=6c2wk2z7phmbiwqpfhhe29i5p&dl=0
 
 
 
