@@ -36,8 +36,11 @@ A demo video can be found by clicking the image below:
 
 # :hammer: Environment 
 <div align="center">
+  
 **Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline**
+
 ------
+
 <p align="center">
   <img width="85%" src="./figures/HDETrack.jpg" alt="Framework"/>
 </p>
