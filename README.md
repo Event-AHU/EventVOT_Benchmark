@@ -98,7 +98,7 @@ python tracking/analysis_results.py --dataset eventvot --parameter_name hdetrack
 *Note:* The speeds reported in our paper were tested on a single RTX 3090 GPU.
 
 ```
-# Profiling ceutrack_coesot
+# Profiling hdetrack_eventvot
 python tracking/profile_model.py --script hdetrack --config hdetrack_eventvot
 ```
 
