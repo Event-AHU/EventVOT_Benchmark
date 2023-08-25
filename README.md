@@ -64,7 +64,6 @@ Download the model weights and put it on `$/output/checkpoints/train/hdetrack`
 ## Train & Test & Evaluation
 ```
     # train
-    export CUDA_VISIBLE_DEVICES=0
     python tracking/train.py --script hdetrack --config hdetrack_eventvot --save_dir ./output --mode single --nproc_per_node 1 --use_wandb 0
 
     # test
@@ -111,11 +110,16 @@ python tracking/profile_model.py --script hdetrack --config hdetrack_eventvot
 
 
 # :cupid: Acknowledgement 
-
+* Thanks for the  [CEUTrack](https://github.com/Event-AHU/COESOT), [OSTrack](https://github.com/botaoye/OSTrack), [PyTracking](https://github.com/visionml/pytracking) and [ViT](https://github.com/rwightman/pytorch-image-models) library for a quickly implement.
 
 # :newspaper: Citation 
-```
-
+```bibtex
+@article{wang2023eventvot,
+  title={Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline},
+  author={},
+  journal={},
+  year={2023}
+}
 ```
 
 
