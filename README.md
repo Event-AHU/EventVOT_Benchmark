@@ -42,6 +42,10 @@ A demo video can be found by clicking the image below:
 
 **A distillation framework for Event Stream-based Visual Object Tracking.**
 
+[[Trained Models](https://pan.baidu.com/s/1OQRn9bDxgzx1IVhrbVar0g)] Passcode：wsad
+[[Raw Results](https://pan.baidu.com/s/1TK3zFpHg7gggLLzkVMkoWQ)] Passcode：wsad
+[[Training logs](https://pan.baidu.com/s/1H71DB7EykLu4V3H3qxDP7w)] Passcode：wsad
+
 <p align="center">
   <img width="85%" src="./figures/HDETrack.jpg" alt="Framework"/>
 </p>
@@ -67,6 +71,8 @@ lib/test/evaluation/local.py  # paths about testing
 Then, put the tracking datasets EventVOT in `./data`. 
 
 Download pre-trained [MAE ViT-Base weights](https://dl.fbaipublicfiles.com/mae/pretrain/mae_pretrain_vit_base.pth) and put it under `$/pretrained_models`
+
+Download teacher pre-trained [CEUTrack_ep0050.pth](https://pan.baidu.com/s/13CHSF3TVmCrk9OdGcvZT_g?pwd=wsad ) and put it under `$/pretrained_models`
 
 Download the model weights and put it on `$/output/checkpoints/train/hdetrack`
 
