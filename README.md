@@ -40,7 +40,7 @@ A demo video can be found by clicking the image below:
 
 # :hammer: Environment 
 
-**Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline**
+**Event Stream-based Visual Object Tracking.**
 
 ------
 
