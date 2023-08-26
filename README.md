@@ -34,7 +34,7 @@ A demo video can be found by clicking the image below:
 </p> 
 
 <p align="center">
-  <img width="85%" src="./figures/EventVOT_samples.jpg" alt="EventVOT_samples"/>
+  <img src="./figures/EventVOT_samples.jpg" alt="EventVOT_samples" width="800"/>
 </p>
 
 
