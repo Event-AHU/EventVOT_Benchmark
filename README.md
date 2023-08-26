@@ -33,6 +33,9 @@ A demo video can be found by clicking the image below:
   </a>
 </p> 
 
+<p align="center">
+  <img width="85%" src="./figures/EventVOT_samples.jpg" alt="EventVOT_samples"/>
+</p>
 
 
 # :hammer: Environment 
