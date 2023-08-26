@@ -35,9 +35,6 @@ A demo video can be found by clicking the image below:
 
 
 
-
-
-
 # :hammer: Environment 
 
 **A distillation framework for Event Stream-based Visual Object Tracking.**
@@ -91,9 +88,6 @@ python tracking/test.py hdetrack hdetrack_eventvot --dataset eventvot --threads 
 python tracking/analysis_results.py --dataset eventvot --parameter_name hdetrack_eventvot
 ```
 
-
-
-
 ### Test FLOPs, and Speed
 *Note:* The speeds reported in our paper were tested on a single RTX 3090 GPU.
 
@@ -101,8 +95,6 @@ python tracking/analysis_results.py --dataset eventvot --parameter_name hdetrack
 # Profiling hdetrack_eventvot
 python tracking/profile_model.py --script hdetrack --config hdetrack_eventvot
 ```
-
-
 
 # :dvd: EventVOT Dataset 
 
@@ -158,6 +150,8 @@ The directory should have the below format:
 </p>
 
 # :chart_with_upwards_trend: Benchmark Results
+The overall performance evaluation, including SR, PR, NPR.
+
 <p align="left">
   <img width="100%" src="./figures/SRPRNPR.png" alt="SRPRNPR"/>
 </p>
