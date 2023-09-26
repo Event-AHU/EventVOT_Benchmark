@@ -23,6 +23,8 @@ Tracking using bio-inspired event cameras draws more and more attention in recen
 
 # :collision: Update Log 
 
+* [2023.09.26] arXiv paper, dataset, pre-trained models, and benchmark results are all released. 
+
 
 
 # :video_camera: Demo Video
