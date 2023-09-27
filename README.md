@@ -93,7 +93,7 @@ python tracking/test.py hdetrack hdetrack_eventvot --dataset eventvot --threads 
 python tracking/analysis_results.py --dataset eventvot --parameter_name hdetrack_eventvot
 ```
 
-### Test FLOPs, and Speed
+## Test FLOPs, and Speed
 *Note:* The speeds reported in our paper were tested on a single RTX 3090 GPU.
 
 ```
@@ -169,8 +169,8 @@ The overall performance evaluation, including SR, PR, NPR.
 ```bibtex
 @article{wang2023eventvot,
   title={Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline},
-  author={},
-  journal={},
+  author={Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang},
+  journal={arXiv:2309.14611},
   year={2023}
 }
 ```
