@@ -171,6 +171,7 @@ The overall performance evaluation, including SR, PR, NPR.
   title={Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline},
   author={Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang},
   journal={arXiv:2309.14611},
+  url={https://arxiv.org/abs/2309.14611}, 
   year={2023}
 }
 ```
