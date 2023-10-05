@@ -15,6 +15,11 @@
 
 </div>
 
+> **Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline.** Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang (2023). arXiv preprint arXiv:2309.14611.
+[[Paper](https://arxiv.org/abs/2309.14611)]
+[[Code](https://github.com/Event-AHU/EventVOT_Benchmark)]
+[[DemoVideo](https://youtu.be/FcwH7tkSXK0?si=GHOG7rfw4-GFd9dz)] 
+
 
 
 # :dart: Abstract 
