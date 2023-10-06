@@ -120,6 +120,11 @@ python tracking/profile_model.py --script hdetrack --config hdetrack_eventvot
   
 :floppy_disk: **Dropbox**: https://www.dropbox.com/scl/fo/fv2e3i0ytrjt14ylz81dx/h?rlkey=6c2wk2z7phmbiwqpfhhe29i5p&dl=0
 
+* If you want to download the dataset directly on the Ubuntu terminal using a script, please try this:
+```
+wget -O EventVOT_dataset.zip https://www.dropbox.com/scl/fo/fv2e3i0ytrjt14ylz81dx/h?rlkey=6c2wk2z7phmbiwqpfhhe29i5p"&"dl=1
+```
+
 The directory should have the below format:
 ```Shell
 ├── EventVOT dataset
