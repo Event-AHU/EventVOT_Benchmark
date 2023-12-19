@@ -1,8 +1,8 @@
 import argparse
 import os
 import _init_paths
-from lib_clip.train.admin import create_default_local_file_ITP_train
-from lib_clip.test.evaluation import create_default_local_file_ITP_test
+from lib.train.admin import create_default_local_file_ITP_train
+from lib.test.evaluation import create_default_local_file_ITP_test
 
 
 def parse_args():
