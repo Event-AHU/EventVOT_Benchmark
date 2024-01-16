@@ -87,7 +87,7 @@ Download teacher pre-trained [CEUTrack_ep0050.pth](https://pan.baidu.com/s/13CHS
 Download the trained model weights from [[HDETrack_S_ep0050.pth](https://pan.baidu.com/s/1OQRn9bDxgzx1IVhrbVar0g?pwd=wsad )] and put it under `$/output/checkpoints/train/hdetrack/hdetrack_eventvot` for test directly.
 
 
-## Train & Test & Evaluation
+## Train & Test
 ```
 # train
 python tracking/train.py --script hdetrack --config hdetrack_eventvot --save_dir ./output --mode single --nproc_per_node 1 --use_wandb 0
