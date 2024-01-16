@@ -84,7 +84,7 @@ Download pre-trained [MAE ViT-Base weights](https://dl.fbaipublicfiles.com/mae/p
 
 Download teacher pre-trained [CEUTrack_ep0050.pth](https://pan.baidu.com/s/13CHSF3TVmCrk9OdGcvZT_g?pwd=wsad ) and put it under `$/pretrained_models`
 
-Download the trained model weights from [[HDETrack_S_ep0050.pth](https://pan.baidu.com/s/1OQRn9bDxgzx1IVhrbVar0g?pwd=wsad )] and put it on `$/output/checkpoints/train/hdetrack`
+Download the trained model weights from [[HDETrack_S_ep0050.pth](https://pan.baidu.com/s/1OQRn9bDxgzx1IVhrbVar0g?pwd=wsad )] and put it under `$/output/checkpoints/train/hdetrack`
 
 
 ## Train & Test & Evaluation
