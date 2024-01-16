@@ -94,10 +94,10 @@ python tracking/train.py --script hdetrack --config hdetrack_eventvot --save_dir
 
 # test
 python tracking/test.py hdetrack hdetrack_eventvot --dataset eventvot --threads 1 --num_gpus 1
+```
 
 
-
-## Test FLOPs, and Speed
+### Test FLOPs, and Speed
 *Note:* The speeds reported in our paper were tested on a single RTX 3090 GPU.
 
 ```
