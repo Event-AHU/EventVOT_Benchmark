@@ -100,10 +100,6 @@ python tracking/test.py hdetrack hdetrack_eventvot --dataset eventvot --threads 
 ### Test FLOPs, and Speed
 *Note:* The speeds reported in our paper were tested on a single RTX 3090 GPU.
 
-```
-# Profiling hdetrack_eventvot
-python tracking/profile_model.py --script hdetrack --config hdetrack_eventvot
-```
 
 # :dvd: EventVOT Dataset 
 
