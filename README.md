@@ -28,6 +28,7 @@ Tracking using bio-inspired event cameras draws more and more attention in recen
 
 # :collision: Update Log 
 
+* [2024.02.27] Our work is accepted by CVPR-2024! 
 * [2023.09.26] arXiv paper, dataset, pre-trained models, and benchmark results are all released [[arXiv](https://arxiv.org/abs/2309.14611)]
 * [2023.12.04] EventVOT_eval_toolkit, from [EventVOT_eval_toolki (Passcode：wsad)](https://pan.baidu.com/s/1rDsLIsNLxN6Gh9u-EdElyA?pwd=wsad)
 
