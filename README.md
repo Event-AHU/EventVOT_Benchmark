@@ -55,7 +55,6 @@ A demo video [Youtube](https://youtu.be/FcwH7tkSXK0?si=GHOG7rfw4-GFd9dz) can be 
 
 [[Raw Results](https://pan.baidu.com/s/1TK3zFpHg7gggLLzkVMkoWQ)] Passcode：wsad
 
-[[Training logs](https://pan.baidu.com/s/1H71DB7EykLu4V3H3qxDP7w)] Passcode：wsad
 
 <p align="center">
   <img width="85%" src="./figures/HDETrack.jpg" alt="Framework"/>
