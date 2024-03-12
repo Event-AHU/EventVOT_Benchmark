@@ -28,10 +28,15 @@ Tracking using bio-inspired event cameras draws more and more attention in recen
 
 # :collision: Update Log 
 
-* [2024.02.28] Our code, visualizations and other experimental results have been updated.
-* [2024.02.27] Our work is accepted by CVPR-2024!
-* [2023.12.04] EventVOT_eval_toolkit, from [EventVOT_eval_toolki (Passcode：wsad)](https://pan.baidu.com/s/1rDsLIsNLxN6Gh9u-EdElyA?pwd=wsad)
-* [2023.09.26] arXiv paper, dataset, pre-trained models, and benchmark results are all released [[arXiv](https://arxiv.org/abs/2309.14611)]
+* :fire: [2024.03.12] A New Long-term RGB-Event based Visual Object Tracking Benchmark Dataset (termed **FELT**) is available at
+  [[Paper](https://arxiv.org/pdf/2403.05839.pdf)] 
+  [[Code](https://github.com/Event-AHU/FELT_SOT_Benchmark)] 
+  [[DemoVideo](https://youtu.be/6zxiBHTqOhE?si=6ARRGFdBLSxyp3G8)]
+  
+* :fire: [2024.02.28] Our code, visualizations and other experimental results have been updated.
+* :fire: [2024.02.27] Our work is accepted by CVPR-2024!
+* :fire: [2023.12.04] EventVOT_eval_toolkit, from [EventVOT_eval_toolki (Passcode：wsad)](https://pan.baidu.com/s/1rDsLIsNLxN6Gh9u-EdElyA?pwd=wsad)
+* :fire: [2023.09.26] arXiv paper, dataset, pre-trained models, and benchmark results are all released [[arXiv](https://arxiv.org/abs/2309.14611)]
 
 
 
