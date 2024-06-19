@@ -93,6 +93,7 @@ Download teacher pre-trained [CEUTrack_ep0050.pth](https://pan.baidu.com/s/1Z6jA
 
 Download the trained model weights from [[HDETrack_S_ep0050.pth](https://pan.baidu.com/s/1GigDXtkSd9oE04dUM3W6Nw?pwd=wsad)] and put it under `$/output/checkpoints/train/hdetrack/hdetrack_eventvot` for test directly.
 
+You can also access [Weight files in Dropbox](https://www.dropbox.com/scl/fo/8novqy1dg8enbjlocxb1p/AEFy8K2d0TkbNcdF1xtcvfQ?rlkey=kf5py912x2cmk6txc35xyasv6&st=d14w1433&dl=0) to download the weights files.
 
 ## Train & Test
 ```
