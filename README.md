@@ -54,6 +54,12 @@ A demo video [Youtube](https://youtu.be/FcwH7tkSXK0?si=GHOG7rfw4-GFd9dz) can be 
 </p>
 
 
+<p align="center">
+  <img src="./figures/gif.gif" alt="EventVOT_gif" width="800"/>
+</p>
+
+
+
 # :hammer: Environment 
 
 **A distillation framework for Event Stream-based Visual Object Tracking.**
