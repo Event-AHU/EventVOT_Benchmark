@@ -186,12 +186,12 @@ The overall performance evaluation, including SR, PR, NPR.
 
 # :newspaper: Citation 
 ```bibtex
-@article{wang2023eventvot,
-  title={Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline},
-  author={Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang},
-  journal={arXiv:2309.14611},
-  url={https://arxiv.org/abs/2309.14611}, 
-  year={2023}
+@inproceedings{wang2024event,
+  title={Event stream-based visual object tracking: A high-resolution benchmark dataset and a novel baseline},
+  author={Wang, Xiao and Wang, Shiao and Tang, Chuanming and Zhu, Lin and Jiang, Bo and Tian, Yonghong and Tang, Jin},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={19248--19257},
+  year={2024}
 }
 ```
 
