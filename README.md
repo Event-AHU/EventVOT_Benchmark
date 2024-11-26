@@ -159,6 +159,11 @@ The directory should have the below format:
             ├── absent.txt
         ├── ... 
 ```
+Normally, we only need the "img" and "..._voxel" files from the EventVOT dataset for training. During testing, we only input "img" for training.
+<p align="center">
+  <img src="./figures/EventVOT_dataset.jpg" alt="EventVOT_files" width="800"/>
+</p>
+
 Note: Our EventVOT dataset is an unimodal Event Dataset, if you need a multimodal RGB-E dataset, please refer to [[COESOT](https://github.com/Event-AHU/COESOT/tree/main)]， [[VisEvent](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)], or [[FELT](https://github.com/Event-AHU/FELT_SOT_Benchmark)].
 
 # :triangular_ruler: Evaluation Toolkit
