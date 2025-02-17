@@ -32,7 +32,8 @@ Tracking using bio-inspired event cameras draws more and more attention in recen
   [[Paper](https://arxiv.org/pdf/2403.05839.pdf)] 
   [[Code](https://github.com/Event-AHU/FELT_SOT_Benchmark)] 
   [[DemoVideo](https://youtu.be/6zxiBHTqOhE?si=6ARRGFdBLSxyp3G8)]
-  
+
+* :fire: [2025.02.17] Based on CVPR, we have further expanded HeDETrackV2, and the code has been made public.
 * :fire: [2024.02.28] Our code, visualizations and other experimental results have been updated.
 * :fire: [2024.02.27] Our work is accepted by CVPR-2024!
 * :fire: [2023.12.04] EventVOT_eval_toolkit, from [EventVOT_eval_toolki (Passcode：wsad)](https://pan.baidu.com/s/1rDsLIsNLxN6Gh9u-EdElyA?pwd=wsad)
