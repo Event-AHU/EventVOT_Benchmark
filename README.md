@@ -28,7 +28,9 @@ Tracking using bio-inspired event cameras draws more and more attention in recen
 
 # :collision: Update Log 
 
-* :fire: [2025.02.17] Based on HDETrack (CVPR2024), we have further expanded HDETrackV2, and the code has been made public.
+* :fire: [2025.02.17] Based on HDETrack (CVPR2024), we have further expanded HDETrackV2, the paper and code have been made public.
+  [[Paper](https://arxiv.org/pdf/2502.05574.pdf)]
+  
 
 * :fire: [2024.03.12] A New Long-term RGB-Event based Visual Object Tracking Benchmark Dataset (termed **FELT**) is available at
   [[Paper](https://arxiv.org/pdf/2403.05839.pdf)] 
