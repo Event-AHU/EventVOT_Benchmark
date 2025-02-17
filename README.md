@@ -28,7 +28,7 @@ Tracking using bio-inspired event cameras draws more and more attention in recen
 
 # :collision: Update Log 
 
-* :fire: [2025.02.17] Based on HDETrack (CVPR2024), we have further expanded HDETrackV2, the paper and code have been made public.
+* :fire: [2025.02.17] Based on HDETrack (CVPR2024), we have further expanded HDETrackV2, the paper and code are all released
   [[Paper](https://arxiv.org/pdf/2502.05574.pdf)]
   
 
