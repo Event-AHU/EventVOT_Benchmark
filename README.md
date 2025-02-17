@@ -30,7 +30,6 @@ Tracking using bio-inspired event cameras draws more and more attention in recen
 
 * :fire: [2025.02.17] Based on CVPR, we have further expanded HeDETrackV2, and the code has been made public.
 
-* 
 * :fire: [2024.03.12] A New Long-term RGB-Event based Visual Object Tracking Benchmark Dataset (termed **FELT**) is available at
   [[Paper](https://arxiv.org/pdf/2403.05839.pdf)] 
   [[Code](https://github.com/Event-AHU/FELT_SOT_Benchmark)] 
